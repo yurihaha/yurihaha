@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm uiandwe</text>
+    <text x="15" y="27">Hi, I'm Yurihaha</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,7 +295,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Backend Software Engineer and building server</text>
+    <text x="15" y="27">Frontend Software Engineer</text>
     <text x="15" y="50">ETL (Extract / Transform / Load)</text>
   </g>
 
@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm very interested in system design and DB optimization.</text>    
-    <text x="15" y="50">writing blogs and meaningful projects</text>
+    <text x="15" y="27">I'm interested in UI/UX design system.</text>    
+    <text x="15" y="50">I want to be a developer who likes to work and enjoys it.</text>
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I run Python UserGoup in Korea</text>    
+    <text x="15" y="27">I'm learning vue.js, React.</text>    
   </g>
 
   <!-- typing 5 -->
