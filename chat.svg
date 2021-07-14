@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Yurihaha</text>
+    <text x="15" y="27">Hi, I'm uiandwe</text>
   </g>
 
   <!-- typing 2 -->
@@ -295,7 +295,8 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Frontend Engineer</text>
+    <text x="15" y="27">Backend Software Engineer and building server</text>
+    <text x="15" y="50">ETL (Extract / Transform / Load)</text>
   </g>
 
   <!-- typing 3 -->
@@ -319,7 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I want to be a fun person to work with my colleagues.</text>    
+    <text x="15" y="27">I'm very interested in system design and DB optimization.</text>    
+    <text x="15" y="50">writing blogs and meaningful projects</text>
   </g>
 
 
@@ -344,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I want to be a developer who likes to work and enjoys it.</text>    
+    <text x="15" y="27">I run Python UserGoup in Korea</text>    
   </g>
 
   <!-- typing 5 -->
@@ -392,6 +394,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a xlink:href="https://yurihaha.github.io/">https://yurihaha.github.io</a> </text>
+    <text x="15" y="27"><a xlink:href="https://uiandwe.github.io/">https://uiandwe.github.io</a> </text>
   </g>
 </svg>
